@@ -10,7 +10,7 @@ namespace HelloAsync
     {
         static void Main(string[] args)
         {
-
+            //Added a comment
             Console.WriteLine("Main - Start");
 
             DoWork();
