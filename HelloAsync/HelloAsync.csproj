@@ -52,6 +52,7 @@
   <ItemGroup>
     <Content Include="help.txt" />
     <Content Include="license.txt" />
+    <Content Include="notes.txt" />
     <Content Include="readme.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
