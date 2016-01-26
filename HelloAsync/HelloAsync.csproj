@@ -50,6 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="help.txt" />
     <Content Include="license.txt" />
     <Content Include="readme.txt" />
   </ItemGroup>
